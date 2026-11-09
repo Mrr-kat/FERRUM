@@ -102,7 +102,7 @@ Crea un entorno virtual e instala dependencias:
 
 bash
 python -m venv venv
-source venv/bin/activate        # En Windows: venv\Scripts\activate
+venv\Scripts\activate        # En linux: source venv/bin/activate
 pip install -r requirements.txt
 Crea una base de datos PostgreSQL y configura la variable DATABASE_URL:
 
