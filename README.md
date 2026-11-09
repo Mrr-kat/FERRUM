@@ -214,7 +214,7 @@ gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
 
 ### Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+Este proyecto se distribuye bajo la licencia MIT.
 
 ---
 
@@ -425,4 +425,4 @@ gunicorn app:app --bind 0.0.0.0:$PORT --workers 2 --timeout 120
 
 ### License
 
-This project is distributed under the MIT License. See the `LICENSE` file for details.
+This project is distributed under the MIT License.
